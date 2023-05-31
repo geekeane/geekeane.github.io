@@ -12,9 +12,23 @@ h2 {color: ;
 .center {display: block;
   margin-left: auto;
   margin-right: auto;}
-p {color:#87ad84 ;}  
+.clubs-to-offer {color: #21611c;}
+p {color:#21611c ;}  
 #About-Our-School {background-color:#f7fcd2;
 
 }
 
-#dress-code {color: #21611c;}
+#Clubs {color: #21611c;
+    font-size: 1.5em;
+    
+}
+#quote {color: #21611c;
+    font-family: garamond;
+}
+
+    
+#sports {color: #21611c;
+    background-color:#f7fcd2  ;
+}
+
+#contact {font-size: .9em;}
